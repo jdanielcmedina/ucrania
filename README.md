@@ -1,4 +1,4 @@
-## Estamos com a Ucrânia!
+## Estamos com a Ucrânia! 🇺🇦
 
 Um simples "badge" para dares apoio à Ucrânia no teu website.
 
@@ -34,8 +34,8 @@ Podes configurar os paramêtros do "badge" através dos atributos do script:
     Default: ```'left'```
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/" title="Ajuda a Ucrânia a vencer!" url="https://standforukraine.com" position="right" async></script>
+<script src="https://cdn.jsdelivr.net/gh/jdanielcmedina/ucrania/badge.js" title="Ajuda a Ucrânia a vencer!" url="https://standforukraine.com" position="right" async></script>
 ```
 
 ### Como vai ficar
-![](https://github.com/)
+![](https://github.com/jdanielcmedina/ucrania/raw/master/preview.png)
